@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.6f258254.chunk.css",
-    "main.js": "/static/js/main.bdd80e3c.chunk.js",
-    "main.js.map": "/static/js/main.bdd80e3c.chunk.js.map",
+    "main.js": "/static/js/main.f255d469.chunk.js",
+    "main.js.map": "/static/js/main.f255d469.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.dc49cf19.js",
     "runtime-main.js.map": "/static/js/runtime-main.dc49cf19.js.map",
     "static/css/2.bb4ba17c.chunk.css": "/static/css/2.bb4ba17c.chunk.css",
-    "static/js/2.cf22b027.chunk.js": "/static/js/2.cf22b027.chunk.js",
-    "static/js/2.cf22b027.chunk.js.map": "/static/js/2.cf22b027.chunk.js.map",
+    "static/js/2.2b55d659.chunk.js": "/static/js/2.2b55d659.chunk.js",
+    "static/js/2.2b55d659.chunk.js.map": "/static/js/2.2b55d659.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f98684afab030e13eafa398cc3dfad9b.js": "/precache-manifest.f98684afab030e13eafa398cc3dfad9b.js",
+    "precache-manifest.def0e9b0029c20e4a154b508b8335ae4.js": "/precache-manifest.def0e9b0029c20e4a154b508b8335ae4.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.bb4ba17c.chunk.css.map": "/static/css/2.bb4ba17c.chunk.css.map",
     "static/css/main.6f258254.chunk.css.map": "/static/css/main.6f258254.chunk.css.map",
-    "static/js/2.cf22b027.chunk.js.LICENSE.txt": "/static/js/2.cf22b027.chunk.js.LICENSE.txt",
+    "static/js/2.2b55d659.chunk.js.LICENSE.txt": "/static/js/2.2b55d659.chunk.js.LICENSE.txt",
     "static/media/1.jfif": "/static/media/1.c7f80877.jfif",
     "static/media/2.jfif": "/static/media/2.d6b4939c.jfif",
     "static/media/3.jfif": "/static/media/3.fe381b0f.jfif",
@@ -21,8 +21,8 @@
     "static/media/amartya.png": "/static/media/amartya.cb0f0939.png",
     "static/media/anjishnu.png": "/static/media/anjishnu.bc4c16e8.png",
     "static/media/chailex.jpg": "/static/media/chailex.d18480a5.jpg",
-    "static/media/chinu.jpg": "/static/media/chinu.3cfdc17a.jpg",
     "static/media/lol.png": "/static/media/lol.cebb7e77.png",
+    "static/media/security.jpg": "/static/media/security.663dc5c6.jpg",
     "static/media/subrat.jpg": "/static/media/subrat.5559f01b.jpg",
     "static/media/sudarshan.jpg": "/static/media/sudarshan.413b199f.jpg",
     "static/media/vishal.png": "/static/media/vishal.199590b0.png",
@@ -31,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.dc49cf19.js",
     "static/css/2.bb4ba17c.chunk.css",
-    "static/js/2.cf22b027.chunk.js",
+    "static/js/2.2b55d659.chunk.js",
     "static/css/main.6f258254.chunk.css",
-    "static/js/main.bdd80e3c.chunk.js"
+    "static/js/main.f255d469.chunk.js"
   ]
 }

@@ -6,7 +6,7 @@ import img2 from "../assets/2.jfif"
 import img3 from "../assets/3.jfif"
 import img4 from "../assets/subrat.jpg"
 import img5 from "../assets/chailex.jpg"
-import img6 from "../assets/chinu.jpg"
+import img6 from "../assets/security.jpg"
 import img7 from "../assets/zafar.jpg"
 import img8 from "../assets/agni.jpg"
 import img9 from "../assets/sudarshan.jpg"
@@ -30,14 +30,14 @@ const Home = () => {
             </ol>
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img class="d-block w-100" src={img1} alt="First slide" height="700px"/>
+                <img class="d-block w-100" src={img6} alt="First slide" height="700px"/>
               </div>
               <div class="carousel-item">
                 <img class="d-block w-100" src={img2} alt="Second slide" height="700px"/>
               </div>
-              <div class="carousel-item">
+              {/* <div class="carousel-item">
                 <img class="d-block w-100" src={img3} alt="Third slide" />
-              </div>
+              </div> */}
             </div>
             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
               <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -54,7 +54,7 @@ const Home = () => {
               <h1 class="text-center">Codes and Works</h1>
               <h4 class="mt-5">Our codes and updates are regularly taken care of in our Github handle</h4>
               <h6 class="mt-5">To go through our project details and codes kindly refer the github link below</h6>
-              <p>https://github.com/NAKHYATRA</p>
+              <p>https://github.com/Nakhyatra54/AssamPolice</p>
             </div> 
             
             <h1 class="text-center mb-5 mt-5 customColor" id="team">Team Members</h1>

@@ -50,7 +50,7 @@ const Menu = ({ history }) => (
         <a
           style={currentTab(history, "/progress")}
           className="nav-link mt-4"
-          href="https://github.com/Chailex"
+          href="https://github.com/Nakhyatra54/AssamPolice"
         >
           Github
         </a>
