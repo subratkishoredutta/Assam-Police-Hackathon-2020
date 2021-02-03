@@ -1,6 +1,7 @@
 # Team Nakhyatra  | Smart India Hackathon 2020 (finalist) | Assam Police Hackathon 2020
 
 ![](images/WhatsApp%20Image%202021-02-03%20at%208.32.03%20PM.jpeg)
+### <b>Problem Statement(Smart India Hackathon 2020)</b> - #1 identifying solutions with respect to inter-state and inter country/continent criminals using identity inputs like name, email, photo, present/permamnent address, mobile number, ID cards etc. Also to design tools to generate some alert in facilitating effective policing
 ![Innovate4Assam_activity_banner](https://user-images.githubusercontent.com/32811341/94607375-73352480-02b9-11eb-8537-db049299ded4.png)
 
 ### <b>Problem Statement(Assam Police Hackathon 2020)</b> - #1 Smart movement tracking solution of people/vehicles from point A to point B
