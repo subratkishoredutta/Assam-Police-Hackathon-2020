@@ -1,4 +1,4 @@
-# Team Nakhyatra  | Assam Police Hackathon 2020
+# Team Nakhyatra  | Smart India Hackathon 2020 (finalist)|Assam Police Hackathon 2020
 
 ![Innovate4Assam_activity_banner](https://user-images.githubusercontent.com/32811341/94607375-73352480-02b9-11eb-8537-db049299ded4.png)
 
