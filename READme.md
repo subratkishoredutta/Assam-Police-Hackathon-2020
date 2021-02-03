@@ -1,12 +1,14 @@
-# Team Nakhyatra  | Assam Police Hackathon 2020
+# Team Nakhyatra  | Smart India Hackathon 2020 (finalist) | Assam Police Hackathon 2020
 
+![](images/WhatsApp%20Image%202021-02-03%20at%208.32.03%20PM.jpeg)
+### <b>Problem Statement(Smart India Hackathon 2020)</b> : identifying solutions with respect to inter-state and inter country/continent criminals using identity inputs like name, email, photo, present/permamnent address, mobile number, ID cards etc. Also to design tools to generate some alert in facilitating effective policing
 ![Innovate4Assam_activity_banner](https://user-images.githubusercontent.com/32811341/94607375-73352480-02b9-11eb-8537-db049299ded4.png)
 
-### <b>Problem Statement</b> - #1 Smart movement tracking solution of people/vehicles from point A to point B
+### <b>Problem Statement(Assam Police Hackathon 2020)</b> : Smart movement tracking solution of people/vehicles from point A to point B
 
 <p
  </p><hr>
- The smart system which can help in tracking of people, vehicles travelling from Point A to Point B. The solution must also encompass a mechanism by which law enforcement agencies can track if there is a deviation from a specific route, time is taken for the travel, the speed of the vehicles that can also be implemented but not limited to be used in green corridor forest areas like Kaziranga national park. The solution must ensure that vehicles do not cross a speed limit, so as to minimize accidents with animals, who cross the road, especially during monsoon.
+  The project was initially a part of SIH 2020 which is enhanced further. The system is such that it provides effective policing from multiple dimensions. The project involves going indepth to the various ways in which crimes are committed in the nation and tries to solve the issues with the latest sett of technology available. The smart system which can help in tracking of people, vehicles travelling from Point A to Point B. The solution must also encompass a mechanism by which law enforcement agencies can track if there is a deviation from a specific route, time is taken for the travel, the speed of the vehicles that can also be implemented but not limited to be used in green corridor forest areas like Kaziranga national park. The solution must ensure that vehicles do not cross a speed limit, so as to minimize accidents with animals, who cross the road, especially during monsoon.
 
 ### Parts of our Project: 
 
@@ -84,7 +86,6 @@ Two main features of the DB are :
 
 > ### Web Application: HTML, CSS, JavaScript, Bootstrap, ReactJs, ExpressJs, MongoDb, Flask
 > ### Mobile Application: Flutter, Firebase
-> ### Backend, Machine Learning And Data Analysis: Python, Flask
+> ### Backend, Machine Learning And Data Analysis: Python, Flask, keras, tensorflow, sklearn
 
 [VIDEO DEMONSTRATION OF OUR ENTIRE PROJECT](https://drive.google.com/file/d/10_QTJdtuq-7e3Fm1vGMyeYK2F0jgKeHS/view?usp=sharing) Check it out here!
-
