@@ -1,8 +1,9 @@
-# Team Nakhyatra  | Smart India Hackathon 2020 (finalist)|Assam Police Hackathon 2020
+# Team Nakhyatra  | Smart India Hackathon 2020 (finalist) | Assam Police Hackathon 2020
 
+![SmartIndia Hackathon]
 ![Innovate4Assam_activity_banner](https://user-images.githubusercontent.com/32811341/94607375-73352480-02b9-11eb-8537-db049299ded4.png)
 
-### <b>Problem Statement</b> - #1 Smart movement tracking solution of people/vehicles from point A to point B
+### <b>Problem Statement(Assam Police Hackathon 2020)</b> - #1 Smart movement tracking solution of people/vehicles from point A to point B
 
 <p
  </p><hr>
