@@ -86,7 +86,7 @@ Two main features of the DB are :
 
 > ### Web Application: HTML, CSS, JavaScript, Bootstrap, ReactJs, ExpressJs, MongoDb, Flask
 > ### Mobile Application: Flutter, Firebase
-> ### Backend, Machine Learning And Data Analysis: Python, Flask
+> ### Backend, Machine Learning And Data Analysis: Python, Flask, keras, tensorflow, sklearn
 
 [VIDEO DEMONSTRATION OF OUR ENTIRE PROJECT](https://drive.google.com/file/d/10_QTJdtuq-7e3Fm1vGMyeYK2F0jgKeHS/view?usp=sharing) Check it out here!
 
